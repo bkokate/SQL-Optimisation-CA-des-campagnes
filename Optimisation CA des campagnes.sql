@@ -1,4 +1,3 @@
-#Information : le dataset n'est plus disponible.
 
 #SEGMENTATION DES CLIENTS
   #Montant dépensé par tranche d'âge
